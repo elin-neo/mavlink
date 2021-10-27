@@ -40,7 +40,7 @@ MAVLINK_GIT_REMOTENAME=upstream
 MAVLINK_GIT_BRANCHNAME=master
 CLIBRARY_PATH=$MAVLINK_PATH/include/mavlink/v$1.0/c_library_v$1
 CLIBRARY_GIT_REMOTENAME=origin
-CLIBRARY_GIT_BRANCHNAME=master
+CLIBRARY_GIT_BRANCHNAME=elin
 
 # fetch latest message specifications
 #cd $MAVLINK_PATH
